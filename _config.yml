@@ -84,9 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Software Engineer"
   location         : "Budapest"
-  employer         : |
-                     Budapest University
-                     of Technology and Economics
+  employer         : "Budapest University <br> of Technology and Economics"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "najibghadri9 [at] gmail.com"
