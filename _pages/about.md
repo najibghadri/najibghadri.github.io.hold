@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "My site"
+excerpt: "Welcome"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/the-mandalorian-wallpaper.png
+  overlay_image: the-mandalorian-wallpaper.png
 ---
 
 About me

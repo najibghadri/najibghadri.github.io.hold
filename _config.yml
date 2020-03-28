@@ -83,7 +83,7 @@ author:
   name             : "Najib Ghadri"
   avatar           : "profile.jpg"
   bio              : "Software Engineer"
-  location         : "Budapest"
+  location         : 
   employer         : "Budapest University of <br> <span style='margin-left: 20px;'>Technology and Economics</span>"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
