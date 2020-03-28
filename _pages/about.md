@@ -28,7 +28,7 @@ Gambjo - The next social network
 ======
 
 
-Study of the next web - Next Web
+Study of Next Web
 ======
 
 Blog
