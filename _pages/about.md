@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 About me
-======
+--------
 I studied computer science in Budapest University of Technology, and finished my Masters in 2020. I specialized in different and exciting branches of today's computer science: classical Software Development and Engineering, Blockchain and www technologies and Computer Vision, Machine Learning, Deep Learning.
 
 My recent work has been focused on artifical intelligence in computer vision in my work of ... link
@@ -21,17 +21,17 @@ I envision the Next Web, the future of the WWW, where you have decentralization 
 However any company could initiate this direction, even Gambjo :)..
 
 Self-supervised Scene Understanding with Energy-based concept models based on CNN synergy and stereo imaging
-======
+--------
 
 Read more link here
 
 Gambjo - The next social network
-======
+--------
 
 
 Study of Next Web
-======
+--------
 
 Blog
-======
+--------
 Thumbnails here
