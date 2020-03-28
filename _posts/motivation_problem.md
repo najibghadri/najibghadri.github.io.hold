@@ -6,9 +6,6 @@ tags:
   - sociology, economy
 ---
 
-Motivation problem
-======
-
 There is more capital than workforce.
 
 
