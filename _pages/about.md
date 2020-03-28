@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I studied computer science in the Budapest University of Technology, and finished my Masters in 2020. I specialized in different and exciting branches of today's computer science: classical Software Development and Engineering, Blockchain and www technologies and Computer Vision, Machine Learning, Deep Learning.
+I studied computer science in Budapest University of Technology, and finished my Masters in 2020. I specialized in different and exciting branches of today's computer science: classical Software Development and Engineering, Blockchain and www technologies and Computer Vision, Machine Learning, Deep Learning.
 
 My recent work has been focused on artifical intelligence in computer vision in my work of ... link
 I made a startup initiative for a mobile social network, Gambjo, with the goal of helping real outdoor social interactions, with 5 other engineer friends of mine, but we had to halt the idea, as apparently it's not our time. But we still believe in it!
