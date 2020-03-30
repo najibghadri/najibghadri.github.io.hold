@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 header:
   video: /images/thesis/montage
-  # overlay_color: "#000"
-  # overlay_filter: "0.5"
-  # overlay_image: the-mandalorian-wallpaper.png
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: the-mandalorian-wallpaper.png
+  caption: "Rendered with CARLA Simulator, the tool I used for my thesis"
+
 
 ---
 
