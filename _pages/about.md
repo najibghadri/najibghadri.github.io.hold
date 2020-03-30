@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  video: /video/liquid
+  video: /images/thesis/montage
   # overlay_color: "#000"
   # overlay_filter: "0.5"
   # overlay_image: the-mandalorian-wallpaper.png
