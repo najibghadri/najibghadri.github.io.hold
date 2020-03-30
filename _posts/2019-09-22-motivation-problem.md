@@ -3,7 +3,8 @@ title: 'Motivation problem'
 date: 2019-09-22
 permalink: /motivation-problem/
 tags:
-  - sociology, economy
+  - sociology
+  - economy
 ---
 
 There is more capital than workforce.
